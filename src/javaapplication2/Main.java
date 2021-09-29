@@ -20,7 +20,7 @@ import java.lang.reflect.Array;
 public class Main {
 	
 	public static void main(String[] args) throws IOException {
-            //prubar git y no sale bien por ahora
+            //prubar git y no sale bien por dddddddddddddddddddddddddahora
 		String ruta = "C:\\Users\\Fernando\\EjerciciosFicheros1.2\\src\\org\\madrid\\ad\\ut01\\ficheros\\assets\\el_quijote.txt";
                 //ej1------------------
 		FicherosTexto.leer(ruta);
